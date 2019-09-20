@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomVLC_Java</string>
+    <string name="refresh">Refresh</string>
+</resources>
